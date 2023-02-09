@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #06A3DA;
+    --primary: #503363;
     --secondary: #34AD54;
     --light: #EEF9FF;
-    --dark: #091E3E;
+    --dark: #503363;
 }
 
 
@@ -221,7 +221,7 @@ h6,
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(9, 30, 62, .7);
+    background: rgba(80, 51, 99, .7);
     z-index: 1;
 }
 
@@ -490,3 +490,16 @@ h6,
         margin-bottom: -75px;
     }
 }
+
+.bg-dark {
+    background-color: #503363 !important;
+}
+
+.bg-primary {
+    background-color: #000000 !important;
+}
+
+.text-primary {
+    color: #503363 !important;
+}
+
