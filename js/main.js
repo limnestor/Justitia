@@ -52,6 +52,99 @@
         }
     });
 
+    $(window).on("load", function () {
+        let menuCode = `<!-- Navbar & Carousel Start -->
+        <div class="container-fluid position-relative p-0">
+            <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0 navbar-purple-background">
+                <a href="index.html" class="navbar-brand p-0">
+                    <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Justitia</h1>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="fa fa-bars"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav ms-auto py-0">
+                        <a href="index.html" class="nav-item nav-link">Home</a>
+    
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">iCodal</a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Constitutions
+                                    </a>
+                                    <ul class="dropdown-menu dropdown-submenu">
+                                        <li>
+                                            <a class="dropdown-item" href="MalolosConstitution.html">1899 (Malolos)</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="1935Constitution.html">1935</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="1973Constitution.html">1973</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="FreedomConstitution.html">1986 (Freedom)</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="1987Constitution.html">1987</a>
+                                        </li>                                        
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Criminal Law
+                                    </a>
+                                    <ul class="dropdown-menu dropdown-submenu">
+                                        <li>
+                                            <a class="dropdown-item" href="rpc.html">Revised Penal Code</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="1973Constitution.html">Special</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Civil Law
+                                    </a>
+                                    <ul class="dropdown-menu dropdown-submenu">
+                                        <li>
+                                            <a class="dropdown-item" href="civilcode.html">Civil Code</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="1973Constitution.html">Special</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Remedial Law
+                                    </a>
+                                    <ul class="dropdown-menu dropdown-submenu">
+                                        <li>
+                                            <a class="dropdown-item" href="rpc.html">Rules on Criminal Procedure</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="1973Constitution.html">Rules on Civil Procedure</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+    
+                        </div>
+                        <a href="#aboutus" class="nav-item nav-link">About Us</a>
+                        <a href="service.html" class="nav-item nav-link">Journals</a>
+                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    </div>
+                    <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal"
+                             data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
+                </div>
+            </nav>
+        </div>
+        <!-- Navbar & Carousel End -->`;
+        $("#menuHere").append(menuCode);
+    });
 
     // Facts counter
     $('[data-toggle="counter-up"]').counterUp({
