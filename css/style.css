@@ -507,3 +507,6 @@ h6,
     color: #503363 !important;
 }
 
+.text-justified {
+    text-align: justify;
+}
