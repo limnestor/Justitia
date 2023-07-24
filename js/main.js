@@ -123,7 +123,7 @@
                                     </a>
                                     <ul class="dropdown-menu dropdown-submenu">
                                         <li>
-                                            <a class="dropdown-item" href="rpc.html">Rules on Criminal Procedure</a>
+                                            <a class="dropdown-item" href="crimpro.html">Revised Rules on Criminal Procedure</a>
                                         </li>
                                         <li>
                                             <a class="dropdown-item" href="1973Constitution.html">Rules on Civil Procedure</a>
