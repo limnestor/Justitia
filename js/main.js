@@ -135,7 +135,7 @@
                         </div>
                         <a href="#aboutus" class="nav-item nav-link">About Us</a>
                         <a href="service.html" class="nav-item nav-link">Journals</a>
-                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                        <a href="gai.html" class="nav-item nav-link">Ask MechaCounsel</a>
                     </div>
                     <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal"
                              data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>

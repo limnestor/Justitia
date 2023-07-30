@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to Justitia's Virtual Booth</title>
+
+    <link href="img/justitia.ico" rel="icon">
+</head>
+<body style="background-color: purple;">
+
+
+    <div style="display: block; margin-left: auto; margin-right: auto; width: 80%;">
+        <marquee width="100%" direction="right">
+            <h1 style="color: white">Welcome Freshmen!</h1>
+        </marquee>
+        <img style="height: 100%; width: 100%" src="img/booth.png" usemap="#workmap"/>
+    </div>
+
+    <map name="workmap">
+        <area shape="rect" coords="160,376,362,556" href="https://docs.google.com/forms/d/e/1FAIpQLSdGnqu6QiiChc6fWGiMk-EAVwAvSxiLvuNK4Ou-JvxtnMdF-A/viewform" target="_blank" />
+        <area shape="rect" coords="392,646,438,690" href="https://web.facebook.com/justitiaumaklawjournal" target="_blank" />
+        <area shape="rect" coords="1264,648,1314,690" href="https://limnestor.github.io/Justitia/" target="_blank" />
+        <area shape="rect" coords="1334,376,1530,560" href="https://docs.google.com/forms/d/e/1FAIpQLSdGnqu6QiiChc6fWGiMk-EAVwAvSxiLvuNK4Ou-JvxtnMdF-A/viewform" target="_blank" />
+    </map>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="js/imageMapResizer.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('map').imageMapResize();
+        });
+    </script>
+</body>
+</html>
