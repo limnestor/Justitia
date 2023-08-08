@@ -127,7 +127,20 @@
                                         <a class="dropdown-item" href="crimpro.html">Revised Rules on Criminal Procedure</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="civilpro.html">Revised Rules on Civil Procedure</a>
+                                        <a class="dropdown-item" href="civilpro.html">2019 Revised Rules on Civil Procedure</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">
+                                    Legal and Judicial Ethics
+                                </a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                    <li>
+                                        <a class="dropdown-item" href="cpra.html">CPRA</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="oath.html">Lawyer's Oath</a>
                                     </li>
                                 </ul>
                             </li>
