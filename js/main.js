@@ -144,6 +144,29 @@
                                     </li>
                                 </ul>
                             </li>
+                            <li>
+                                <a class="dropdown-item" href="#">
+                                    Labor
+                                </a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                    <li>
+                                        <a class="dropdown-item" href="labor.html">Labor Code</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="labor.html">Special Laws</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">
+                                    Commercial Law
+                                </a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                    <li>
+                                        <a class="dropdown-item" href="corpcode.html">Revised Corporation Code</a>
+                                    </li>
+                                </ul>
+                            </li>
                         </ul>
 
                     </div>
