@@ -168,6 +168,9 @@
                                     <li>
                                         <a class="dropdown-item" href="secmc82013.html">SEC Memorandum Circular 8 s2013</a>
                                     </li>
+                                     <li>
+                                        <a class="dropdown-item" href="secmc212014.html">SEC Memorandum Circular 21 s2014</a>
+                                    </li>
                                     <li>
                                         <a class="dropdown-item" href="secmc62016.html">SEC Memorandum Circular 6 s2016</a>
                                     </li>
@@ -179,6 +182,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="secmc132019.html">SEC Memorandum Circular 13 s2019</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="secmc232019.html">SEC Memorandum Circular 23 s2019</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="secmc222020.html">SEC Memorandum Circular 22 s2020</a>
