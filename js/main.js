@@ -153,7 +153,10 @@
                                         <a class="dropdown-item" href="labor.html">Labor Code</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="labor.html">Special Laws</a>
+                                        <a class="dropdown-item" href="irrlabor.html">Omnibus Rules Implementing the Labor Code</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="owwa.html">Migrant Workers and Overseas Filipinos Act of 1995 (As Amended)</a>
                                     </li>
                                 </ul>
                             </li>
