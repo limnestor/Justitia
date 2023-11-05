@@ -72,7 +72,7 @@
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li>
                                 <a class="dropdown-item" href="#">
-                                    Constitutions
+                                    Constitutions >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
@@ -94,7 +94,7 @@
                             </li>
                             <li>
                                 <a class="dropdown-item" href="#">
-                                    Criminal Law
+                                    Criminal Law >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
@@ -107,7 +107,7 @@
                             </li>
                             <li>
                                 <a class="dropdown-item" href="#">
-                                    Civil Law
+                                    Civil Law >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
@@ -120,7 +120,7 @@
                             </li>
                             <li>
                                 <a class="dropdown-item" href="#">
-                                    Remedial Law
+                                    Remedial Law >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
@@ -133,7 +133,7 @@
                             </li>
                             <li>
                                 <a class="dropdown-item" href="#">
-                                    Legal and Judicial Ethics
+                                    Legal and Judicial Ethics >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
@@ -146,7 +146,7 @@
                             </li>
                             <li>
                                 <a class="dropdown-item" href="#">
-                                    Labor
+                                    Labor >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
@@ -161,11 +161,14 @@
                                     <li>
                                         <a class="dropdown-item" href="irrowwa.html">Omnibus Rules And Regulations Implementing The Migrant Workers And Overseas Filipinos Act</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="paternityleave.html">Paternity Leave Act</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
                                 <a class="dropdown-item" href="#">
-                                    Commercial Law
+                                    Commercial Law >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
