@@ -164,6 +164,9 @@
                                     <li>
                                         <a class="dropdown-item" href="paternityleave.html">Paternity Leave Act</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="irrpaternity.html">IRR Paternity Leave Act</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
