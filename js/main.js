@@ -119,6 +119,9 @@
                                     <li>
                                         <a class="dropdown-item" href="ra11642.html">Domestic Adoption Act</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="irrdomesticadoption.html">IRR Domestic Adoption Act</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -131,6 +134,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="civilpro.html">2019 Revised Rules on Civil Procedure</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="bp129.html">Judiciary Reorganization Act of 1980</a>
                                     </li>
                                 </ul>
                             </li>
