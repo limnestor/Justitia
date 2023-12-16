@@ -187,6 +187,12 @@
                                         <a class="dropdown-item" href="corpcode.html">Revised Corporation Code</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item" href="pca.html">Philippine Competition Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="src.html">Securities Regulations Code</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item" href="secmc82013.html">SEC Memorandum Circular 8 s2013</a>
                                     </li>
                                      <li>
