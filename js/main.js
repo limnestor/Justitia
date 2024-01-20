@@ -72,6 +72,26 @@
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li>
                                 <a class="dropdown-item" href="#">
+                                    Administrative Law >
+                                </a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                    <li>
+                                        <a class="dropdown-item" href="admincode.html">Administrative Code of 1987</a>
+                                    </li>                                       
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">
+                                    Taxation  >
+                                </a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                    <li>
+                                        <a class="dropdown-item" href="nirc.html">National Internal Revenue Code</a>
+                                    </li>                                       
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">
                                     Constitutions >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
