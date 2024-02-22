@@ -142,6 +142,9 @@
                                     <li>
                                         <a class="dropdown-item" href="irrdomesticadoption.html">IRR Domestic Adoption Act</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="prd.html">Property Registration Decree</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -217,6 +220,18 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="nego.html">Negotiable Instruments Law</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ppsa.html">Personal Property Security Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="truthlending.html">Truth in Lending Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="adra.html">Access Devices Regulation Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="fca.html">Financing Company Act</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="secmc82013.html">SEC Memorandum Circular 8 s2013</a>
