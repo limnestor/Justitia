@@ -234,6 +234,9 @@
                                         <a class="dropdown-item" href="fca.html">Financing Company Act</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item" href="fria.html">Financial Rehabilitation and Insolvency Act</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item" href="secmc82013.html">SEC Memorandum Circular 8 s2013</a>
                                     </li>
                                      <li>
