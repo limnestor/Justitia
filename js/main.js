@@ -96,7 +96,13 @@
                                     </li>   
                                     <li>
                                         <a class="dropdown-item" href="lgc.html#taxes">Book II Local Government Code</a>
-                                    </li>                                    
+                                    </li>   
+                                    <li>
+                                        <a class="dropdown-item" href="pd1931.html">PD 1931, S1984</a>
+                                    </li>  
+                                    <li>
+                                        <a class="dropdown-item" href="eo93.html">EO 93, S1986</a>
+                                    </li>                                 
                                 </ul>
                             </li>
                             <li>
