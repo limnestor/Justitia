@@ -77,7 +77,10 @@
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
                                         <a class="dropdown-item" href="admincode.html">Administrative Code of 1987</a>
-                                    </li>                                       
+                                    </li>   
+                                    <li>
+                                        <a class="dropdown-item" href="lgc.html">Local Government Code of 1991</a>
+                                    </li>                                     
                                 </ul>
                             </li>
                             <li>
@@ -87,7 +90,13 @@
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
                                         <a class="dropdown-item" href="nirc.html">National Internal Revenue Code</a>
-                                    </li>                                       
+                                    </li> 
+                                    <li>
+                                        <a class="dropdown-item" href="cmta.html">Customs Modernization and Tariff Act</a>
+                                    </li>   
+                                    <li>
+                                        <a class="dropdown-item" href="lgc.html#taxes">Book II Local Government Code</a>
+                                    </li>                                    
                                 </ul>
                             </li>
                             <li>
