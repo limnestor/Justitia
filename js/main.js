@@ -160,6 +160,18 @@
                                     <li>
                                         <a class="dropdown-item" href="prd.html">Property Registration Decree</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="condo.html">The Condominium Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="subdivision.html">Subdivision and Condo Buyers Protection Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="maceda.html">Maceda Law</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="udha.html">Urban Development and Housing Act</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
