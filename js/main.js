@@ -102,7 +102,10 @@
                                     </li>  
                                     <li>
                                         <a class="dropdown-item" href="eo93.html">EO 93, S1986</a>
-                                    </li>                                 
+                                    </li>  
+                                    <li>
+                                        <a class="dropdown-item" href="rao2-2001.html">Revenue Administrative Order 2-2001</a>
+                                    </li>                                
                                 </ul>
                             </li>
                             <li>
@@ -136,7 +139,13 @@
                                         <a class="dropdown-item" href="rpc.html">Revised Penal Code</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="1973Constitution.html">Special</a>
+                                        <a class="dropdown-item" href="ra7610.html">R.A. No. 7610 (Anti Child Abuse)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ra9208.html">R.A. No. 9208 (Anti Trafficking in Persons)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ra8049.html">R.A. No. 8049 (Anti Hazing Act)</a>
                                     </li>
                                 </ul>
                             </li>
@@ -171,6 +180,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="udha.html">Urban Development and Housing Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="water.html">Water Code</a>
                                     </li>
                                 </ul>
                             </li>
