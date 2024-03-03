@@ -139,14 +139,23 @@
                                         <a class="dropdown-item" href="rpc.html">Revised Penal Code</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="ra7610.html">R.A. No. 7610 (Anti Child Abuse)</a>
+                                        <a class="dropdown-item" href="ra3019.html">R.A. No. 3019 (Anti Graft and Corruption)</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="ra9208.html">R.A. No. 9208 (Anti Trafficking in Persons)</a>
+                                        <a class="dropdown-item" href="ra6235.html">R.A. No. 6235 (Anti Hijacking Law)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ra7610.html">R.A. No. 7610 (Anti Child Abuse)</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="ra8049.html">R.A. No. 8049 (Anti Hazing Act)</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ra9208.html">R.A. No. 9208 (Anti Trafficking in Persons)</a>
+                                    </li>                                    
+                                    <li>
+                                        <a class="dropdown-item" href="ra9745.html">R.A. No. 9745 (Anti Torture Act)</a>
+                                    </li> 
                                 </ul>
                             </li>
                             <li>
