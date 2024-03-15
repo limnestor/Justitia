@@ -108,7 +108,25 @@
                                     </li> 
                                     <li>
                                         <a class="dropdown-item" href="ra1125.html">Court of Tax Appeals Act</a>
-                                    </li>                                 
+                                    </li>  
+                                    <li>
+                                        <a class="dropdown-item" href="rr0240.html">Revenue Regulation 02-1940</a>
+                                    </li>  
+                                    <li>
+                                        <a class="dropdown-item" href="rr0179.html">Revenue Regulation 01-1979</a>
+                                    </li>     
+                                    <li>
+                                        <a class="dropdown-item" href="ra9480.html">R.A. No. 9480</a>
+                                    </li>  
+                                    <li>
+                                        <a class="dropdown-item" href="ra10754.html">R.A. No. 10754</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ra11213.html">R.A. No. 11213</a>
+                                    </li>     
+                                    <li>
+                                        <a class="dropdown-item" href="ra11956.html">R.A. No. 11956</a>
+                                    </li>                                                            
                                 </ul>
                             </li>
                             <li>
