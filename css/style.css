@@ -526,6 +526,9 @@ h6,
 }
 .dropdown-menu > li:hover > .dropdown-submenu {
     display: block;
+    max-height: 200px;
+    overflow-y: auto;
+    max-width: 150%;
 }
 
 .navbar-nav .dropdown-menu {
