@@ -116,6 +116,9 @@
                                         <a class="dropdown-item" href="ra11534.html">CREATE Law</a>
                                     </li> 
                                     <li>
+                                        <a class="dropdown-item" href="ra11976.html">Ease of Paying Taxes Act</a>
+                                    </li> 
+                                    <li>
                                         <a class="dropdown-item" href="rr0240.html">Revenue Regulation 02-1940</a>
                                     </li>  
                                     <li>
