@@ -223,6 +223,12 @@
                                     <li>
                                         <a class="dropdown-item" href="water.html">Water Code</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ra7942.html">Philippine Mining Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ra8293.html">Intellectual Property Code</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
