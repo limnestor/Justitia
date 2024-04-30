@@ -251,6 +251,9 @@
                                     <li>
                                         <a class="dropdown-item" href="childwitness.html">Rule on Examination of Child Witness</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="rulesexpedited.html">Rules on Expedited Procedures</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
