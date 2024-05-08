@@ -254,6 +254,9 @@
                                     <li>
                                         <a class="dropdown-item" href="rulesexpedited.html">Rules on Expedited Procedures</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="elecevid.html">Rules on Electronic Evidence</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
