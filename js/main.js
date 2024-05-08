@@ -257,6 +257,9 @@
                                     <li>
                                         <a class="dropdown-item" href="elecevid.html">Rules on Electronic Evidence</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="dnaevid.html">Rule on DNA Evidence</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
