@@ -229,6 +229,9 @@
                                     <li>
                                         <a class="dropdown-item" href="ra8293.html">Intellectual Property Code</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ra11573.html">REPUBLIC ACT NO. 11573</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
