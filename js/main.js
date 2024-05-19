@@ -342,6 +342,9 @@
                                         <a class="dropdown-item" href="bulksales.html">Bulk Sales Law</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item" href="act1508.html">TheChattel Mortgage Law</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item" href="ra8791.html">General Banking Law</a>
                                     </li>
                                     <li>
