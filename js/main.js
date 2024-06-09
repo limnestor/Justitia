@@ -80,6 +80,9 @@
                                     </li>   
                                     <li>
                                         <a class="dropdown-item" href="lgc.html">Local Government Code of 1991</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="pd807.html">Civil Service Decree</a>
                                     </li>                                     
                                 </ul>
                             </li>
