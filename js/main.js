@@ -289,7 +289,7 @@
                             </li>
                             <li>
                                 <a class="dropdown-item" href="#">
-                                    Labor >
+                                    Labor and Social Justice>
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
@@ -303,6 +303,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="sena.html">Single Entry Approach (SEnA)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ra7277.html">Magna Carta for Persons with Disabilities</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="irrowwa.html">Omnibus Rules And Regulations Implementing The Migrant Workers And Overseas Filipinos Act</a>
