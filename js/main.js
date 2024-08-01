@@ -363,6 +363,9 @@
                                         <a class="dropdown-item" href="ra8791.html">General Banking Law</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item" href="ra10607.html">The Insurance Code</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item" href="secmc82013.html">SEC Memorandum Circular 8 s2013</a>
                                     </li>
                                      <li>
