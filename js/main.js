@@ -275,6 +275,9 @@
                                     <li>
                                         <a class="dropdown-item" href="dnaevid.html">Rule on DNA Evidence</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="useofpaper.html">Efficient Use of Paper Rule</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
