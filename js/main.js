@@ -55,6 +55,8 @@
     //$(window).on("load", function () {
 
     let menuCode = `<!-- Navbar & Carousel Start -->
+    <marquee>This website is still under construction and many contents are still work in progress.  No guarantee or warranty provided.</marquee>
+
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0 navbar-purple-background">
             <a href="index.html" class="navbar-brand p-0">
@@ -397,8 +399,9 @@
                         </ul>
 
                     </div>
-                    <a href="#aboutus" class="nav-item nav-link">About Us</a>
-                    <a href="service.html" class="nav-item nav-link">Journals</a>
+                    <a href="index.html#aboutus" class="nav-item nav-link">About Us</a>
+                    <a href="journals.html" class="nav-item nav-link">Journals</a>
+                    <a href="booth.html" class="nav-item nav-link">Booth</a>
                     <a href="gai.html" class="nav-item nav-link">Ask MechaCounsel</a>
                 </div>
                 <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal"
@@ -437,6 +440,7 @@
         dots: true,
         loop: true,
         center: true,
+        nav: false,
         responsive: {
             0:{
                 items:1
