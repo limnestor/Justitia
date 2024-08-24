@@ -54,6 +54,17 @@
 
     //$(window).on("load", function () {
 
+    let quicklinks = `
+        <a className="text-light mb-2" href="index.html"><i className="bi bi-arrow-right text-primary me-2"></i>Home</a>
+        <a className="text-light mb-2" href="index.html#aboutus"><i className="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+        <a className="text-light mb-2" href="#"><i className="bi bi-arrow-right text-primary me-2"></i>iCodal</a>
+        <a className="text-light mb-2" href="index.html#meettheteam"><i className="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
+        <a className="text-light mb-2" href="journals.html"><i className="bi bi-arrow-right text-primary me-2"></i>Journal</a>
+        <a className="text-light" href="https://docs.google.com/forms/d/e/1FAIpQLSdGnqu6QiiChc6fWGiMk-EAVwAvSxiLvuNK4Ou-JvxtnMdF-A/viewform"><i className="bi bi-arrow-right text-primary me-2"></i>Join Us</a>
+    `;
+
+    $("#quicklinks").replaceWith(quicklinks);
+
     let menuCode = `<!-- Navbar & Carousel Start -->
     <marquee><b style="color: red;">This website is still under construction and many contents are still work in progress.  No guarantee or warranty provided.</b></marquee>
 
