@@ -84,6 +84,7 @@
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <p>&nbsp;</p>
+            <h1 class="text-center">Codals Available</h1>
 
             <div id="codalList"></div>
         </div>
@@ -185,6 +186,85 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
+    <script>
+        let codalListHeader = "";
+        let codalListDetail = "";
+        let codalLinks = [];
+        let dataset = [];
+        let j = 0;
+
+        $(".icodalcategory").each
+        (
+            function()
+            {
+                codalListHeader += "<th>" + $(this).text().replace(" >", "") + "</th>";
+
+                let i = 0;
+
+                $(this).next("ul").find(".icodalname").each
+                (
+                    function()
+                    {
+                        if (dataset[dataset.length] == null || dataset[dataset.length] == undefined)
+                        {
+                            dataset[dataset.length] = [];
+                            codalLinks[codalLinks.length] = [];
+                        }
+
+                        dataset[i++][j]  = $(this).text();
+                        codalLinks[i - 1][j] = $(this).attr("href");
+                    }
+                );
+
+                j++;
+            }
+        );
+
+        for (let i = 0; i < dataset.length; i++)
+        {
+            codalListDetail += "<tr>";
+
+            for (let j = 0; j < dataset[i].length; j++)
+            {
+                let data = dataset[i][j];
+                let link = codalLinks[i][j];
+
+                if (data == null || data == undefined)
+                {
+                    data = "";
+                    link = "";
+                }
+
+                codalListDetail += "<td><a href='" + link + "'>" + data + "</a></td>";
+            }
+
+            codalListDetail += "</tr>";
+        }
+
+        let codalList = `
+            <table class="table table-striped thead-dark">
+                <thead class="">
+                <tr>
+                    `;
+
+        codalList += codalListHeader;
+
+        codalList += `
+                </tr>
+                </thead>
+                <tbody>
+                `;
+        codalList += codalListDetail;
+
+        codalList += `
+                </tbody>
+            </table>
+            `;
+
+        $("#codalList").replaceWith(codalList);
+
+    </script>
 </body>
 
 	<!--

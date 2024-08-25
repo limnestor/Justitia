@@ -57,15 +57,16 @@
     let quicklinks = `
         <a className="text-light mb-2" href="index.html"><i className="bi bi-arrow-right text-primary me-2"></i>Home</a>
         <a className="text-light mb-2" href="index.html#aboutus"><i className="bi bi-arrow-right text-primary me-2"></i>About Us</a>
-        <a className="text-light mb-2" href="#"><i className="bi bi-arrow-right text-primary me-2"></i>iCodal</a>
+        <a className="text-light mb-2" href="icodal.html"><i className="bi bi-arrow-right text-primary me-2"></i>iCodal</a>
         <a className="text-light mb-2" href="index.html#meettheteam"><i className="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
         <a className="text-light mb-2" href="journals.html"><i className="bi bi-arrow-right text-primary me-2"></i>Journal</a>
-        <a className="text-light" href="https://docs.google.com/forms/d/e/1FAIpQLSdGnqu6QiiChc6fWGiMk-EAVwAvSxiLvuNK4Ou-JvxtnMdF-A/viewform"><i className="bi bi-arrow-right text-primary me-2"></i>Join Us</a>
+        <a className="text-light" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdGnqu6QiiChc6fWGiMk-EAVwAvSxiLvuNK4Ou-JvxtnMdF-A/viewform"><i className="bi bi-arrow-right text-primary me-2"></i>Join Us</a>
     `;
 
     $("#quicklinks").replaceWith(quicklinks);
 
-    let menuCode = `<!-- Navbar & Carousel Start -->
+    let menuCode = `
+    <!-- Navbar & Carousel Start -->
     <marquee><b style="color: red;">This website is still under construction and many contents are still work in progress.  No guarantee or warranty provided.</b></marquee>
 
     <div class="container-fluid position-relative p-0">
@@ -83,6 +84,11 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">iCodal</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li>
+                                <a class="dropdown-item" href="icodal.html">
+                                    Summary
+                                </a>
+                            </li>
                             <li>
                                 <a class="dropdown-item icodalcategory" href="#">
                                     Administrative Law >
@@ -308,7 +314,7 @@
                             </li>
                             <li>
                                 <a class="dropdown-item icodalcategory" href="#">
-                                    Labor and Social Justice>
+                                    Labor and Social Justice >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
@@ -423,34 +429,6 @@
     <!-- Navbar & Carousel End -->`;
 
     $("#menuHere").replaceWith(menuCode);
-
-
-    let codalList = `
-        <table class="table">
-            <thead>
-                <tr>
-                   <th></th>                
-                </tr>
-            
-            </thead>
-            <tbody>
-            
-            
-            </tbody>
-
-
-
-        </table>
-    `;
-
-
-
-
-
-
-
-    $("#codalList").replaceWith(codalList);
-
 
     // Facts counter
     $('[data-toggle="counter-up"]').counterUp({
