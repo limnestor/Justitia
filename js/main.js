@@ -408,11 +408,11 @@
                                 </ul>
                             </li>
                         </ul>
-
                     </div>
-                    <a href="index.html#aboutus" class="nav-item nav-link">About Us</a>
+                    
                     <a href="journals.html" class="nav-item nav-link">Journals</a>
                     <a href="booth.html" class="nav-item nav-link">Booth</a>
+                    <a href="index.html#aboutus" class="nav-item nav-link">About Us</a>
                     <a href="gai.html" class="nav-item nav-link">Ask MechaCounsel</a>
                 </div>
                 <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal"
