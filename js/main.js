@@ -225,7 +225,7 @@
                                         <a class="dropdown-item icodalname" href="familycode.html">Family Code</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item icodalname" href="ra11642.html">Domestic Adoption Act</a>
+                                        <a class="dropdown-item icodalname" href="ra11642.html">Domestic Administrative Adoption Act</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="irrdomesticadoption.html">IRR Domestic Adoption Act</a>
@@ -255,7 +255,10 @@
                                         <a class="dropdown-item icodalname" href="ra8293.html">Intellectual Property Code</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item icodalname" href="ra11573.html">REPUBLIC ACT NO. 11573</a>
+                                        <a class="dropdown-item icodalname" href="ra11573.html">Republic Act No. 11573</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="pd603.html">Child and Youth Welfare Code</a>
                                     </li>
                                 </ul>
                             </li>
