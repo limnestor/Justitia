@@ -232,6 +232,18 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9745.html">R.A. No. 9745 (Anti Torture Act)</a>
                                     </li> 
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="pd1602.html">P.D. No. 1602 (Illegal Gambling)</a>
+                                    </li> 
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9287.html">R.A. No. 9287 (Illegal Numbers Game)</a>
+                                    </li> 
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9165.html">R.A. No. 9165 (Dangerous Drugs Act)</a>
+                                    </li> 
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="pd1613.html">P.D. No. 1613 (Amending Arson Law)</a>
+                                    </li> 
                                 </ul>
                             </li>
                             <li>

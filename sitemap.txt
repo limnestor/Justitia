@@ -55,6 +55,8 @@ https://limnestor.github.io/Justitia/oath.html
 https://limnestor.github.io/Justitia/owwa.html
 https://limnestor.github.io/Justitia/paternityleave.html
 https://limnestor.github.io/Justitia/pca.html
+https://limnestor.github.io/Justitia/pd1602.html
+https://limnestor.github.io/Justitia/pd1613.html
 https://limnestor.github.io/Justitia/pd1931.html
 https://limnestor.github.io/Justitia/pd603.html
 https://limnestor.github.io/Justitia/pd807.html
@@ -85,9 +87,12 @@ https://limnestor.github.io/Justitia/ra8171.html
 https://limnestor.github.io/Justitia/ra8293.html
 https://limnestor.github.io/Justitia/ra8791.html
 https://limnestor.github.io/Justitia/ra9139.html
+https://limnestor.github.io/Justitia/ra9165.html
 https://limnestor.github.io/Justitia/ra9208.html
 https://limnestor.github.io/Justitia/ra9225.html
+https://limnestor.github.io/Justitia/ra9287.html
 https://limnestor.github.io/Justitia/ra9344.html
+https://limnestor.github.io/Justitia/ra9346.html
 https://limnestor.github.io/Justitia/ra9480.html
 https://limnestor.github.io/Justitia/ra9745.html
 https://limnestor.github.io/Justitia/rao2-2001.html
