@@ -102,7 +102,28 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="pd807.html">Civil Service Decree</a>
-                                    </li>                                     
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ca473.html">Revised Naturalization Law </a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra530.html">Additional Provisions For Naturalization</a>
+                                    </li>  
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra2630.html">Republic Act No. 2630</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9225.html">Citizenship Retention and Reacquisition Act</a>
+                                    </li>    
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra8171.html">Republic Act No. 8171</a>
+                                    </li>               
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10590.html">Amending Overseas Voting Act</a>
+                                    </li>   
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9139.html">Republic Act No. 9139</a>
+                                    </li>                                                                                                                                                                   
                                 </ul>
                             </li>
                             <li>
