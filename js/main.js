@@ -91,7 +91,7 @@
                             </li>
                             <li>
                                 <a class="dropdown-item icodalcategory" href="#">
-                                    Administrative Law >
+                                    Political and Administrative Law >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
@@ -320,6 +320,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="useofpaper.html">Efficient Use of Paper Rule</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am210722sc.html">Naturalization of Refugees and Stateless Persons</a>
                                     </li>
                                 </ul>
                             </li>
