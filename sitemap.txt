@@ -99,6 +99,7 @@ https://limnestor.github.io/Justitia/ra9745.html
 https://limnestor.github.io/Justitia/rao2-2001.html
 https://limnestor.github.io/Justitia/report1.html
 https://limnestor.github.io/Justitia/rpc.html
+https://limnestor.github.io/Justitia/rpec.html
 https://limnestor.github.io/Justitia/rr0179.html
 https://limnestor.github.io/Justitia/rr0240.html
 https://limnestor.github.io/Justitia/rulesexpedited.html
