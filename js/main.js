@@ -436,6 +436,12 @@
                                         <a class="dropdown-item icodalname" href="ra10607.html">The Insurance Code</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="coc.html">Code of Commerce</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="eca.html">Electronic Commerce Act</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="secmc82013.html">SEC Memorandum Circular 8 s2013</a>
                                     </li>
                                      <li>
