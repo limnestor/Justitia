@@ -345,6 +345,12 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="rpec.html">Rules of Procedure for Environmental Cases</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra876.html">The Arbitration Law</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9285.html">Alternative Dispute Resolution Act of 2004</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -442,6 +448,9 @@
                                         <a class="dropdown-item icodalname" href="eca.html">Electronic Commerce Act</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="psa.html">Public Service Act</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="secmc82013.html">SEC Memorandum Circular 8 s2013</a>
                                     </li>
                                     <li>
@@ -465,6 +474,7 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="secmc222020.html">SEC Memorandum Circular 22 s2020</a>
                                     </li>
+                                    
                                 </ul>
                             </li>
                         </ul>
