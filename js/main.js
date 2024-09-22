@@ -302,7 +302,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="pd603.html">Child and Youth Welfare Code</a>
                                     </li>
-                                    
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ipra.html">Indigenous People Rights Act</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
