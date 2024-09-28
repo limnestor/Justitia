@@ -126,10 +126,31 @@
                                     </li>   
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9139.html">Republic Act No. 9139</a>
-                                    </li>       
+                                    </li> 
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra8749.html">Clean Air Act</a>
+                                    </li>          
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9275.html">Clean Water Act</a>
-                                    </li>                                                                                                                                                            
+                                    </li>    
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra7076.html">People Small Scale Mining Act</a>
+                                    </li>           
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9175.html">Chain Saw Act</a>
+                                    </li>                      
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="pd705.html">Revised Forestry Code</a>
+                                    </li>   
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="pd856.html">Sanitation Code</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="pd1151.html">Philippine Environmental Policy</a>
+                                    </li>   
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9003.html">Ecological Waste Management Act</a>
+                                    </li>                                                                                                                                     
                                 </ul>
                             </li>
                             <li>
