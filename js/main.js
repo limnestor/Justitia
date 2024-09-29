@@ -156,7 +156,13 @@
                                     </li>   
                                     <li>
                                         <a class="dropdown-item icodalname" href="pd1586.html">Environmental Impact Statement System</a>
-                                    </li>                                                                                                                                  
+                                    </li> 
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="proc2146.html">Scope of Environmental Impact Statement System</a>
+                                    </li>  
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra8550.html">Philippine Fisheries Code</a>
+                                    </li>                                                                                                                                
                                 </ul>
                             </li>
                             <li>
