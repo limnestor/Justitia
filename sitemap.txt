@@ -6,6 +6,7 @@ https://limnestor.github.io/Justitia/act1508.html
 https://limnestor.github.io/Justitia/admincode.html
 https://limnestor.github.io/Justitia/adra.html
 https://limnestor.github.io/Justitia/am210722sc.html
+https://limnestor.github.io/Justitia/amparo.html
 https://limnestor.github.io/Justitia/article1.html
 https://limnestor.github.io/Justitia/article2.html
 https://limnestor.github.io/Justitia/article3.html
@@ -41,6 +42,7 @@ https://limnestor.github.io/Justitia/fria.html
 https://limnestor.github.io/Justitia/googleb2acb6bcb0f10b1c.html
 https://limnestor.github.io/Justitia/gr167614.html
 https://limnestor.github.io/Justitia/gr81510.html
+https://limnestor.github.io/Justitia/habeasdata.html
 https://limnestor.github.io/Justitia/icodal.html
 https://limnestor.github.io/Justitia/index.html
 https://limnestor.github.io/Justitia/ipra.html

@@ -362,6 +362,12 @@
                                         <a class="dropdown-item icodalname" href="specpro.html">Special Proceedings</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="amparo.html">Writ of Amparo</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="habeasdata.html">Writ of Habeas Data</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="bp129.html">Judiciary Reorganization Act of 1980</a>
                                     </li>
                                     <li>
