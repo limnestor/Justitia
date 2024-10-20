@@ -331,9 +331,6 @@
                                         <a class="dropdown-item icodalname" href="ra7942.html">Philippine Mining Act</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item icodalname" href="ra8293.html">Intellectual Property Code</a>
-                                    </li>
-                                    <li>
                                         <a class="dropdown-item icodalname" href="ra11573.html">Republic Act No. 11573</a>
                                     </li>
                                     <li>
@@ -452,10 +449,19 @@
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
+                                        <a class="dropdown-item icodalname" href="coc.html">Code of Commerce</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="corpcode.html">Revised Corporation Code</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="ra8293.html">Intellectual Property Code</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="pca.html">Philippine Competition Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10173.html">Data Privacy Act</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="src.html">Securities Regulations Code</a>
@@ -490,9 +496,7 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra10607.html">The Insurance Code</a>
                                     </li>
-                                    <li>
-                                        <a class="dropdown-item icodalname" href="coc.html">Code of Commerce</a>
-                                    </li>
+
                                     <li>
                                         <a class="dropdown-item icodalname" href="eca.html">Electronic Commerce Act</a>
                                     </li>
