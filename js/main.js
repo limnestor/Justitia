@@ -233,6 +233,9 @@
                                         <a class="dropdown-item icodalname" href="1935Constitution.html">1935</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="1943Constitution.html">1943</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="1973Constitution.html">1973</a>
                                     </li>
                                     <li>
