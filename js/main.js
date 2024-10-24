@@ -413,6 +413,12 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="oath.html">Lawyer's Oath</a>
                                     </li>
+                                     <li>
+                                        <a class="dropdown-item icodalname" href="codeethics.html">Code of Professional Ethics</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ethics.html">Rules of Court - Ethics</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>

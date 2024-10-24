@@ -24,6 +24,7 @@ https://limnestor.github.io/Justitia/civilpro.html
 https://limnestor.github.io/Justitia/cmta.html
 https://limnestor.github.io/Justitia/coc.html
 https://limnestor.github.io/Justitia/codal.html
+https://limnestor.github.io/Justitia/codeethics.html
 https://limnestor.github.io/Justitia/condo.html
 https://limnestor.github.io/Justitia/contact.html
 https://limnestor.github.io/Justitia/corpcode.html
@@ -34,6 +35,7 @@ https://limnestor.github.io/Justitia/dnaevid.html
 https://limnestor.github.io/Justitia/eca.html
 https://limnestor.github.io/Justitia/elecevid.html
 https://limnestor.github.io/Justitia/eo93.html
+https://limnestor.github.io/Justitia/ethics.html
 https://limnestor.github.io/Justitia/evidence.html
 https://limnestor.github.io/Justitia/familycode.html
 https://limnestor.github.io/Justitia/fca.html
