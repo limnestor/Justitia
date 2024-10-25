@@ -56,6 +56,7 @@ https://limnestor.github.io/Justitia/irrpaternity.html
 https://limnestor.github.io/Justitia/irrsrc.html
 https://limnestor.github.io/Justitia/jar.html
 https://limnestor.github.io/Justitia/journals.html
+https://limnestor.github.io/Justitia/judicialethics.html
 https://limnestor.github.io/Justitia/labor.html
 https://limnestor.github.io/Justitia/lgc.html
 https://limnestor.github.io/Justitia/maceda.html

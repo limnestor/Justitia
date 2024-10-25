@@ -419,6 +419,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ethics.html">Rules of Court - Ethics</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="judicialethics.html">Code of Judicial Ethics</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
