@@ -6,6 +6,7 @@ https://limnestor.github.io/Justitia/about.html
 https://limnestor.github.io/Justitia/act1508.html
 https://limnestor.github.io/Justitia/admincode.html
 https://limnestor.github.io/Justitia/adra.html
+https://limnestor.github.io/Justitia/am030205.html
 https://limnestor.github.io/Justitia/am210722sc.html
 https://limnestor.github.io/Justitia/amparo.html
 https://limnestor.github.io/Justitia/article1.html
@@ -63,6 +64,7 @@ https://limnestor.github.io/Justitia/maceda.html
 https://limnestor.github.io/Justitia/MalolosConstitution.html
 https://limnestor.github.io/Justitia/nego.html
 https://limnestor.github.io/Justitia/nirc.html
+https://limnestor.github.io/Justitia/notary.html
 https://limnestor.github.io/Justitia/oath.html
 https://limnestor.github.io/Justitia/owwa.html
 https://limnestor.github.io/Justitia/paternityleave.html
