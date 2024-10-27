@@ -377,6 +377,9 @@
                                         <a class="dropdown-item icodalname" href="notary.html">Rules on Notarial Practice</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="am200704sc.html">Rules on Remote Notarization</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="am030205.html">Rule on Guardianship of Minor</a>
                                     </li>
                                     <li>
