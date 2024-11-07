@@ -162,6 +162,9 @@
                                     </li>  
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra8550.html">Philippine Fisheries Code</a>
+                                    </li> 
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra7586.html">NIPAS Act</a>
                                     </li>                                                                                                                                
                                 </ul>
                             </li>
