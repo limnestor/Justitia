@@ -524,7 +524,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra10607.html">The Insurance Code</a>
                                     </li>
-
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="eo226s1987.html">Omnibus Investment Code</a>
+                                    </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="eca.html">Electronic Commerce Act</a>
                                     </li>

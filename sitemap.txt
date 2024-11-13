@@ -37,6 +37,7 @@ https://limnestor.github.io/Justitia/detail.html
 https://limnestor.github.io/Justitia/dnaevid.html
 https://limnestor.github.io/Justitia/eca.html
 https://limnestor.github.io/Justitia/elecevid.html
+https://limnestor.github.io/Justitia/eo226s1987.html
 https://limnestor.github.io/Justitia/eo93.html
 https://limnestor.github.io/Justitia/ethics.html
 https://limnestor.github.io/Justitia/evidence.html
