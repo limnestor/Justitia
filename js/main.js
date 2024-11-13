@@ -531,6 +531,9 @@
                                         <a class="dropdown-item icodalname" href="ra7042.html">Foreign Investment Act</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="ra5455.html">R.A. No. 5455</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="eca.html">Electronic Commerce Act</a>
                                     </li>
                                     <li>
