@@ -528,6 +528,9 @@
                                         <a class="dropdown-item icodalname" href="eo226s1987.html">Omnibus Investment Code</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="ra7042.html">Foreign Investment Act</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="eca.html">Electronic Commerce Act</a>
                                     </li>
                                     <li>
