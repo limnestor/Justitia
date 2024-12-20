@@ -38,6 +38,8 @@ https://limnestor.github.io/Justitia/cpra.html
 https://limnestor.github.io/Justitia/crimpro.html
 https://limnestor.github.io/Justitia/detail.html
 https://limnestor.github.io/Justitia/dnaevid.html
+https://limnestor.github.io/Justitia/dojdcn015.html
+https://limnestor.github.io/Justitia/dojdcn028.html
 https://limnestor.github.io/Justitia/eca.html
 https://limnestor.github.io/Justitia/elecevid.html
 https://limnestor.github.io/Justitia/eo226s1987.html

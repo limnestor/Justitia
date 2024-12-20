@@ -360,6 +360,12 @@
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
+                                        <a class="dropdown-item icodalname" href="dojdcn015.html">Rules on Preliminary Investigation and Inquest Proceedings</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="dojdcn028.html">Summary and Expedited Preliminary Investigation</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="crimpro.html">Revised Rules on Criminal Procedure</a>
                                     </li>
                                     <li>
