@@ -169,7 +169,13 @@
                                     </li>      
                                     <li>
                                         <a class="dropdown-item icodalname" href="bp881.html">Omnibus Election Code</a>
-                                    </li>                                                                                                                           
+                                    </li>     
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra8436.html">Automated Elections System Act</a>
+                                    </li>   
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra7166.html">Synchronized National and Local Elections Act</a>
+                                    </li>                                                                                                                    
                                 </ul>
                             </li>
                             <li>
@@ -487,6 +493,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="irrpaternity.html">IRR Paternity Leave Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10911.html">Anti-Age Discrimination in Employment Act</a>
                                     </li>
                                 </ul>
                             </li>
