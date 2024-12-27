@@ -443,7 +443,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9285.html">Alternative Dispute Resolution Act of 2004</a>
                                     </li>
-                                    
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="comelecrules.html">COMELEC Rules of Procedure</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
