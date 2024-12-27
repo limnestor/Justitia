@@ -591,7 +591,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="secmc222020.html">SEC Memorandum Circular 22 s2020</a>
                                     </li>
-                                    
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra2382.html">The Medical Act of 1959</a>
+                                    </li>
                                 </ul>
                             </li>
                         </ul>
