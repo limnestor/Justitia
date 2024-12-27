@@ -175,6 +175,9 @@
                                     </li>   
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra7166.html">Synchronized National and Local Elections Act</a>
+                                    </li> 
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra8189.html">Voter's Registration Act</a>
                                     </li>                                                                                                                    
                                 </ul>
                             </li>
