@@ -31,6 +31,7 @@ https://limnestor.github.io/Justitia/cmta.html
 https://limnestor.github.io/Justitia/coc.html
 https://limnestor.github.io/Justitia/codal.html
 https://limnestor.github.io/Justitia/codeethics.html
+https://limnestor.github.io/Justitia/comelecrules.html
 https://limnestor.github.io/Justitia/condo.html
 https://limnestor.github.io/Justitia/contact.html
 https://limnestor.github.io/Justitia/corpcode.html
@@ -54,6 +55,7 @@ https://limnestor.github.io/Justitia/fria.html
 https://limnestor.github.io/Justitia/googleb2acb6bcb0f10b1c.html
 https://limnestor.github.io/Justitia/gr167614.html
 https://limnestor.github.io/Justitia/gr199802.html
+https://limnestor.github.io/Justitia/gr257610.html
 https://limnestor.github.io/Justitia/gr81510.html
 https://limnestor.github.io/Justitia/habeasdata.html
 https://limnestor.github.io/Justitia/icodal.html
@@ -120,6 +122,7 @@ https://limnestor.github.io/Justitia/ra7166.html
 https://limnestor.github.io/Justitia/ra7277.html
 https://limnestor.github.io/Justitia/ra7586.html
 https://limnestor.github.io/Justitia/ra7610.html
+https://limnestor.github.io/Justitia/ra7941.html
 https://limnestor.github.io/Justitia/ra7942.html
 https://limnestor.github.io/Justitia/ra8049.html
 https://limnestor.github.io/Justitia/ra8171.html
