@@ -706,6 +706,24 @@
     `;
 
     $("head").prepend(gtag);
-    
+
+    let gsearch = `
+        <div class="modal-dialog modal-fullscreen">
+            <div class="modal-content" style="background: rgba(9, 30, 62, .7);">
+                <div class="modal-header border-0">
+                    <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body align-items-center justify-content-center">
+                    <script async src="https://cse.google.com/cse.js?cx=341b242c50d434cc0">
+                    </script>
+                    <div class="gcse-search"></div>
+                </div>
+            </div>
+        </div>
+    `;
+
+    $('#searchModal').empty();
+    $('#searchModal').append(gsearch);
+
 })(jQuery);
 
