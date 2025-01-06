@@ -184,7 +184,10 @@
                                     </li>  
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9189.html">Overseas Voting Act</a>
-                                    </li>                                                                                                                 
+                                    </li>       
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra6770.html">Ombudsman Act</a>
+                                    </li>                                                                                                           
                                 </ul>
                             </li>
                             <li>
@@ -275,6 +278,9 @@
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
                                         <a class="dropdown-item icodalname" href="rpc.html">Revised Penal Code</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="act3326.html">Prescription (Special Penal Laws)</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9344.html">Juvenile Justice and Welfare Act</a>
@@ -391,6 +397,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="specpro.html">Special Proceedings</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9048.html">Correction of Civil Registry</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="amparo.html">Writ of Amparo</a>
