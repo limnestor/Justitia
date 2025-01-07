@@ -184,7 +184,10 @@
                                     </li>  
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9189.html">Overseas Voting Act</a>
-                                    </li>       
+                                    </li>   
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10367.html">Mandatory Biometrics Voters Registration</a>
+                                    </li> 
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra6770.html">Ombudsman Act</a>
                                     </li>                                                                                                           
