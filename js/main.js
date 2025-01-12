@@ -187,10 +187,7 @@
                                     </li>   
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra10367.html">Mandatory Biometrics Voters Registration</a>
-                                    </li> 
-                                    <li>
-                                        <a class="dropdown-item icodalname" href="ra6770.html">Ombudsman Act</a>
-                                    </li>                                                                                                           
+                                    </li>                                                                                                            
                                 </ul>
                             </li>
                             <li>
@@ -414,6 +411,9 @@
                                         <a class="dropdown-item icodalname" href="bp129.html">Judiciary Reorganization Act of 1980</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="ra6770.html">Ombudsman Act</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="pd1606.html">Sandiganbayan Act</a>
                                     </li>
                                     <li>
@@ -631,6 +631,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra11166.html">Philippine HIV and AIDS Policy Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9168.html">Philippine Plant Variety Protection Act</a>
                                     </li>
                                 </ul>
                             </li>
