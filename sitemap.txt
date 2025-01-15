@@ -13,6 +13,7 @@ https://limnestor.github.io/Justitia/am021111sc.html
 https://limnestor.github.io/Justitia/am021112sc.html
 https://limnestor.github.io/Justitia/am030205.html
 https://limnestor.github.io/Justitia/am071108sc.html
+https://limnestor.github.io/Justitia/am191020sc.html
 https://limnestor.github.io/Justitia/am200704sc.html
 https://limnestor.github.io/Justitia/am210722sc.html
 https://limnestor.github.io/Justitia/amparo.html
@@ -28,6 +29,7 @@ https://limnestor.github.io/Justitia/bulksales.html
 https://limnestor.github.io/Justitia/ca473.html
 https://limnestor.github.io/Justitia/ca63.html
 https://limnestor.github.io/Justitia/childwitness.html
+https://limnestor.github.io/Justitia/circular14-93.html
 https://limnestor.github.io/Justitia/civilcode.html
 https://limnestor.github.io/Justitia/civilpro.html
 https://limnestor.github.io/Justitia/cmta.html
