@@ -21,6 +21,7 @@ https://limnestor.github.io/Justitia/article1.html
 https://limnestor.github.io/Justitia/article2.html
 https://limnestor.github.io/Justitia/article3.html
 https://limnestor.github.io/Justitia/article4.html
+https://limnestor.github.io/Justitia/article5.html
 https://limnestor.github.io/Justitia/blog.html
 https://limnestor.github.io/Justitia/booth.html
 https://limnestor.github.io/Justitia/bp129.html
@@ -61,6 +62,7 @@ https://limnestor.github.io/Justitia/fria.html
 https://limnestor.github.io/Justitia/googleb2acb6bcb0f10b1c.html
 https://limnestor.github.io/Justitia/gr167614.html
 https://limnestor.github.io/Justitia/gr199802.html
+https://limnestor.github.io/Justitia/gr217126.html
 https://limnestor.github.io/Justitia/gr230112.html
 https://limnestor.github.io/Justitia/gr257610.html
 https://limnestor.github.io/Justitia/gr81510.html
