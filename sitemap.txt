@@ -132,6 +132,7 @@ https://limnestor.github.io/Justitia/ra3019.html
 https://limnestor.github.io/Justitia/ra530.html
 https://limnestor.github.io/Justitia/ra5455.html
 https://limnestor.github.io/Justitia/ra6235.html
+https://limnestor.github.io/Justitia/ra6646.html
 https://limnestor.github.io/Justitia/ra6770.html
 https://limnestor.github.io/Justitia/ra7042.html
 https://limnestor.github.io/Justitia/ra7076.html
@@ -152,6 +153,7 @@ https://limnestor.github.io/Justitia/ra8749.html
 https://limnestor.github.io/Justitia/ra876.html
 https://limnestor.github.io/Justitia/ra8791.html
 https://limnestor.github.io/Justitia/ra9003.html
+https://limnestor.github.io/Justitia/ra9006.html
 https://limnestor.github.io/Justitia/ra9048.html
 https://limnestor.github.io/Justitia/ra9139.html
 https://limnestor.github.io/Justitia/ra9165.html

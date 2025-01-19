@@ -191,6 +191,12 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra10380.html">Local Absentee Voting for Media</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9006.html">Fair Election Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra6646.html">The Electoral Reforms Law of 1987</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
