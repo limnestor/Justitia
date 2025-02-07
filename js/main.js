@@ -333,6 +333,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra11313.html">Safe Spaces Act</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra7877.html">Anti-Sexual Harassment Act of 1995</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
