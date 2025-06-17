@@ -16,6 +16,7 @@ https://limnestor.github.io/Justitia/am02118SC.html
 https://limnestor.github.io/Justitia/am030205.html
 https://limnestor.github.io/Justitia/am041011sc.html
 https://limnestor.github.io/Justitia/am071108sc.html
+https://limnestor.github.io/Justitia/am10310sc.html
 https://limnestor.github.io/Justitia/am171103sc.html
 https://limnestor.github.io/Justitia/am191020sc.html
 https://limnestor.github.io/Justitia/am200704sc.html
@@ -166,6 +167,7 @@ https://limnestor.github.io/Justitia/ra9003.html
 https://limnestor.github.io/Justitia/ra9006.html
 https://limnestor.github.io/Justitia/ra9048.html
 https://limnestor.github.io/Justitia/ra9139.html
+https://limnestor.github.io/Justitia/ra9160.html
 https://limnestor.github.io/Justitia/ra9165.html
 https://limnestor.github.io/Justitia/ra9168.html
 https://limnestor.github.io/Justitia/ra9175.html

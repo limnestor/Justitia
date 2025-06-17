@@ -524,6 +524,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="am041011sc.html">Rule on Violence Against Women And Their Children</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am10310sc.html">2020 Revised Rules of Procedure for Intellectual Property Rights Cases</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
