@@ -400,6 +400,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra11767.html">Foundling Recognition and Protection Act</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="eo200s1987.html">Publication of Laws</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -585,6 +588,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9502.html">Universally Accessible Cheaper and Quality Medicines Act of 2008</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="eo797.html">POEA</a>
                                     </li>
                                 </ul>
                             </li>
