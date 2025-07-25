@@ -566,6 +566,9 @@
                                         <a class="dropdown-item icodalname" href="irrlabor.html">Omnibus Rules Implementing the Labor Code</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="ra11641.html">Department of Migrant Workers Act</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="owwa.html">Migrant Workers and Overseas Filipinos Act of 1995 (As Amended)</a>
                                     </li>
                                     <li>
