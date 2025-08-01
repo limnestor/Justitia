@@ -345,6 +345,12 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra7877.html">Anti-Sexual Harassment Act of 1995</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10168.html">Terrorism Financing Prevention and Suppression Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra11479.html">The Anti-Terrorism Act of 2020</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>

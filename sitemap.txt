@@ -118,6 +118,7 @@ https://limnestor.github.io/Justitia/price.html
 https://limnestor.github.io/Justitia/proc2146.html
 https://limnestor.github.io/Justitia/psa.html
 https://limnestor.github.io/Justitia/quote.html
+https://limnestor.github.io/Justitia/ra10168.html
 https://limnestor.github.io/Justitia/ra10173.html
 https://limnestor.github.io/Justitia/ra10175.html
 https://limnestor.github.io/Justitia/ra10361.html
@@ -134,6 +135,7 @@ https://limnestor.github.io/Justitia/ra11213.html
 https://limnestor.github.io/Justitia/ra11222.html
 https://limnestor.github.io/Justitia/ra1125.html
 https://limnestor.github.io/Justitia/ra11313.html
+https://limnestor.github.io/Justitia/ra11479.html
 https://limnestor.github.io/Justitia/ra11534.html
 https://limnestor.github.io/Justitia/ra11573.html
 https://limnestor.github.io/Justitia/ra11641.html
