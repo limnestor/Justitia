@@ -197,6 +197,12 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra6646.html">The Electoral Reforms Law of 1987</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra6735.html">Initiative and Referendum</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra6645.html">Filling Vacancy In Congress (R.A. No 6645)</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -252,10 +258,6 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra11956.html">R.A. No. 11956</a>
                                     </li>    
-                                    <li>
-                                        <a class="dropdown-item icodalname" href="ra6735.html">Initiative and Referendum</a>
-                                    </li>
-                                                                                            
                                 </ul>
                             </li>
                             <li>
