@@ -203,6 +203,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra6645.html">Filling Vacancy In Congress (R.A. No 6645)</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra1379.html">Forfeiture of Ill Gotten Wealth Act</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
