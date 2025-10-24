@@ -368,6 +368,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra10883.html">New Anti Carnapping Law</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra7438.html">Rights of Persons Arrested</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
