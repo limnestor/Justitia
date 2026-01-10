@@ -248,7 +248,10 @@
                                     </li>  
                                     <li>
                                         <a class="dropdown-item icodalname" href="rr0179.html">Revenue Regulation 01-1979</a>
-                                    </li>     
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="rr0298.html">Revenue Regulation 02-98</a>
+                                    </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9480.html">R.A. No. 9480</a>
                                     </li>  
