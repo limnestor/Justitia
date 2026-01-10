@@ -565,6 +565,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="am10310sc.html">2020 Revised Rules of Procedure for Intellectual Property Rights Cases</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am211125sc.html">Rules on the Use of Gender-Fair Language in the Judiciary</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
