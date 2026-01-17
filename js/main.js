@@ -728,13 +728,25 @@
                                         <a class="dropdown-item icodalname" href="secmc92018.html">SEC Memorandum Circular 9 s2018</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="secmc72019.html">SEC Memorandum Circular 7 s2019</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="secmc132019.html">SEC Memorandum Circular 13 s2019</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="secmc162019.html">SEC Memorandum Circular 16 s2019</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="secmc232019.html">SEC Memorandum Circular 23 s2019</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="secmc222020.html">SEC Memorandum Circular 22 s2020</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="secmc272020.html">SEC Memorandum Circular 27 s2020</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="secmc42022.html">SEC Memorandum Circular 4 s2022</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra2382.html">The Medical Act of 1959</a>
@@ -744,6 +756,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9168.html">Philippine Plant Variety Protection Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="sec-ogc-41-11.html">SEC-OGC OPINION NO. 41-11</a>
                                     </li>
                                 </ul>
                             </li>

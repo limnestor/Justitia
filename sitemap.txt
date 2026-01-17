@@ -21,6 +21,7 @@ https://limnestor.github.io/Justitia/am171103sc.html
 https://limnestor.github.io/Justitia/am191020sc.html
 https://limnestor.github.io/Justitia/am200704sc.html
 https://limnestor.github.io/Justitia/am210722sc.html
+https://limnestor.github.io/Justitia/am211125sc.html
 https://limnestor.github.io/Justitia/am240206sc.html
 https://limnestor.github.io/Justitia/amparo.html
 https://limnestor.github.io/Justitia/article1.html
@@ -206,6 +207,7 @@ https://limnestor.github.io/Justitia/ra9344.html
 https://limnestor.github.io/Justitia/ra9346.html
 https://limnestor.github.io/Justitia/ra9480.html
 https://limnestor.github.io/Justitia/ra9502.html
+https://limnestor.github.io/Justitia/ra9710.html
 https://limnestor.github.io/Justitia/ra9729.html
 https://limnestor.github.io/Justitia/ra9745.html
 https://limnestor.github.io/Justitia/rao2-2001.html
@@ -214,14 +216,19 @@ https://limnestor.github.io/Justitia/rpc.html
 https://limnestor.github.io/Justitia/rpec.html
 https://limnestor.github.io/Justitia/rr0179.html
 https://limnestor.github.io/Justitia/rr0240.html
+https://limnestor.github.io/Justitia/rr0298.html
 https://limnestor.github.io/Justitia/rulesexpedited.html
+https://limnestor.github.io/Justitia/sec-ogc-41-11.html
 https://limnestor.github.io/Justitia/secmc132019.html
 https://limnestor.github.io/Justitia/secmc142017.html
 https://limnestor.github.io/Justitia/secmc162019.html
 https://limnestor.github.io/Justitia/secmc212014.html
 https://limnestor.github.io/Justitia/secmc222020.html
 https://limnestor.github.io/Justitia/secmc232019.html
+https://limnestor.github.io/Justitia/secmc272020.html
+https://limnestor.github.io/Justitia/secmc42022.html
 https://limnestor.github.io/Justitia/secmc62016.html
+https://limnestor.github.io/Justitia/secmc72019.html
 https://limnestor.github.io/Justitia/secmc82013.html
 https://limnestor.github.io/Justitia/secmc92018.html
 https://limnestor.github.io/Justitia/sena.html
