@@ -768,7 +768,22 @@
                     <a href="journals.html" class="nav-item nav-link">Journals</a>
                     <a href="booth.html" class="nav-item nav-link">Booth</a>
                     <a href="index.html#aboutus" class="nav-item nav-link">About Us</a>
-                    <a href="gai.html" class="nav-item nav-link">Ask MechaCounsel</a>
+                    
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">AI Lawyers</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li>
+                                <a class="dropdown-item" href="https://notebooklm.google.com/notebook/e722feb9-8fb3-4443-9709-0e46d0497016">
+                                    Commercial Law
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="https://notebooklm.google.com/notebook/995395cd-5752-4949-abe3-f4ac51cf32e9">
+                                    Taxation Law
+                                </a>
+                            </li>
+                        </ul>
+                    </div>                    
                 </div>
                 <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal"
                          data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
