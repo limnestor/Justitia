@@ -774,12 +774,22 @@
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li>
                                 <a class="dropdown-item" href="https://notebooklm.google.com/notebook/e722feb9-8fb3-4443-9709-0e46d0497016">
-                                    Commercial Law
+                                    Commercial Lawyer
                                 </a>
                             </li>
                             <li>
                                 <a class="dropdown-item" href="https://notebooklm.google.com/notebook/995395cd-5752-4949-abe3-f4ac51cf32e9">
-                                    Taxation Law
+                                    Taxation Lawyer
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="https://notebooklm.google.com/notebook/9de4e1a3-16e1-43ff-8f00-e868ac8b2498">
+                                    Remedial Lawyer
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="https://notebooklm.google.com/notebook/395184a0-9c4a-4913-a30a-b15c5c331209">
+                                    Legal Ethics Lawyer
                                 </a>
                             </li>
                         </ul>
