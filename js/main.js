@@ -773,6 +773,11 @@
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">AI Lawyers</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li>
+                                <a class="dropdown-item" href="https://notebooklm.google.com/notebook/70fef843-26af-475a-85e9-15d56a1fe338">
+                                    Obligations and Contracts Lawyer
+                                </a>
+                            </li>
+                            <li>
                                 <a class="dropdown-item" href="https://notebooklm.google.com/notebook/e722feb9-8fb3-4443-9709-0e46d0497016">
                                     Commercial Lawyer
                                 </a>
