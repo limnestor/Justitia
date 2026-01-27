@@ -798,7 +798,24 @@
                                 </a>
                             </li>
                         </ul>
-                    </div>                    
+                    </div>
+                    
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">2026 Bar</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li>
+                                <a class="dropdown-item" href="https://notebooklm.google.com/notebook/c114f027-8837-4080-bc3a-fd26f459257c">
+                                    AI for J. Gaerlan Cases  
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">
+                                    AI Forecast of Bar 2026 Questions  
+                                </a>
+                            </li>
+                        </ul>
+                    </div>  
+                                      
                 </div>
                 <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal"
                          data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
