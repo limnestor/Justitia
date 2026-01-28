@@ -813,6 +813,11 @@
                                     AI Forecast of Bar 2026 Questions  
                                 </a>
                             </li>
+                            <li>
+                                <a class="dropdown-item" href="https://sc.judiciary.gov.ph/wp-content/uploads/2025/10/2026-BAR-Bar-Bulletin-No.-1-October-16-2025.pdf">
+                                    Bar Bulletin # 1 
+                                </a>
+                            </li>                            
                         </ul>
                     </div>  
                                       
