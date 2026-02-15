@@ -698,7 +698,10 @@
                                         <a class="dropdown-item icodalname" href="ra8791.html">General Banking Law</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item icodalname" href="ra8791.html">New Central Bank Act</a>
+                                        <a class="dropdown-item icodalname" href="ra7653.html">New Central Bank Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra1405.html">Law on Secrecy of Bank Deposits</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra10607.html">The Insurance Code</a>
