@@ -455,6 +455,12 @@
                                         <a class="dropdown-item icodalname" href="dojdcn028.html">Summary and Expedited Preliminary Investigation</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="dojdc0702000.html">2000 NPS Rule on Appeal</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="dojdc0272022.html">2022 NPS Rule on Appeal</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="crimpro.html">Revised Rules on Criminal Procedure</a>
                                     </li>
                                     <li>
@@ -570,6 +576,12 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="am211125sc.html">Rules on the Use of Gender-Fair Language in the Judiciary</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="dojdc070a2000.html">Delegation of Authority to Regional State Prosecutors</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="dojdc0182017.html">Rule on Electronic Filing of Petitions for Review</a>
                                     </li>
                                 </ul>
                             </li>
@@ -828,6 +840,11 @@
                             <li>
                                 <a class="dropdown-item" href="https://sc.judiciary.gov.ph/wp-content/uploads/2025/10/2026-BAR-Bar-Bulletin-No.-1-October-16-2025.pdf">
                                     Bar Bulletin # 1 
+                                </a>
+                            </li>       
+                            <li>
+                                <a class="dropdown-item" href="https://sc.judiciary.gov.ph/wp-content/uploads/2025/12/2026-BAR-Bar-Bulletin-No-2.pdf">
+                                    Bar Bulletin # 2
                                 </a>
                             </li>                            
                         </ul>
