@@ -207,7 +207,7 @@
                                         <a class="dropdown-item icodalname" href="ra1379.html">Forfeiture of Ill Gotten Wealth Act</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item icodalname" href="ra11032.html">Ease of Doing Business and Efficient Government Service Delivery Act of 2018</a>
+                                        <a class="dropdown-item icodalname" href="ra11032.html">Ease of Doing Business Act</a>
                                     </li>
                                 </ul>
                             </li>
@@ -378,7 +378,7 @@
                                         <a class="dropdown-item icodalname" href="ra10883.html">New Anti Carnapping Law</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item icodalname" href="ra7438.html">Rights of Persons Arrested</a>
+                                        <a class="dropdown-item icodalname" href="ra7438.html">Rights of Persons Arrested and in Custodial Investigation</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra12312.html">Anti-POGO Act of 2025</a>
@@ -792,6 +792,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="sec-ogc-41-11.html">SEC-OGC OPINION NO. 41-11</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra3591.html">PDIC Law</a>
                                     </li>
                                 </ul>
                             </li>
