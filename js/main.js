@@ -794,7 +794,7 @@
                                         <a class="dropdown-item icodalname" href="sec-ogc-41-11.html">SEC-OGC OPINION NO. 41-11</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item icodalname" href="ra3591.html">PDIC Law</a>
+                                        <a class="dropdown-item icodalname" href="ra3591.html">PDIC Charter Law</a>
                                     </li>
                                 </ul>
                             </li>
