@@ -209,8 +209,14 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra11032.html">Ease of Doing Business Act</a>
                                     </li>
-                                     <li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="eo2s2016.html">Freedom of Information</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra6713.html">Code of Conduct and Ethical Standards for Public Officials and Employees</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra7662.html">Legal Education Reform Act</a>
                                     </li>
                                 </ul>
                             </li>
@@ -389,6 +395,39 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9160.html">Anti-Money Laundering Act of 2001</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10591.html">Comprehensive Firearms and Ammunition Regulation Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="act1524.html">Enforcement of Conditional Pardon</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="pd532.html">Anti Piracy and Anti Highway Robbery</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9851.html">Crimes Against International Humanitarian Law, Genocide, and Other Crimes Against Humanity</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra11596.html">Anti Child Marriage Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra7080.html">Plunder Law</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="pd533.html">Anti-Cattle Rustling Law</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="bp22.html">Anti Bouncing Checks Law (B.P. Blg. 22)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="pd1689.html">Syndicated Estafa</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9995.html">Anti-Photo and Video Voyeurism Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ca142.html">Regulate The Use Of Aliases (C.A. 142)</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -452,9 +491,6 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="eo200s1987.html">Publication of Laws</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item icodalname" href="ra11596.html">Anti Child Marriage Act</a>
                                     </li>
                                 </ul>
                             </li>
@@ -604,6 +640,30 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="am210608sc.html">Rules on the Use of Body-Worn Cameras</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ac122000.html">A.C. 12-2000 on B.P. Blg. 22 Cases</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ac132001.html">A.C. 13-2001 on B.P. Blg. 22 Cases</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra8974.html">National Infrastructure Projects Expropriation</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10752.html">The Right-of-Way Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am030404sc.html">Rule on Custody of Minors</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10071.html">Prosecution Service Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am250217sc.html">Rule on Hague Evidence Convention</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am221101sc.html">ULAS Rules</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -646,10 +706,19 @@
                                         <a class="dropdown-item icodalname" href="owwa.html">Migrant Workers and Overseas Filipinos Act of 1995 (As Amended)</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="ra12021.html">Magna Carta of Filipino Seafarers</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="ra10361.html">Batas Kasambahay</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra11199.html">Social Security Act of 2018</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra8291.html">The Government Service Insurance System Act of 1997</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra7699.html">SSS/GSIS Portability Law</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="sena.html">Single Entry Approach (SEnA)</a>
@@ -711,6 +780,7 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra10151.html">Employment of Night Workers</a>
                                     </li>
+
                                 </ul>
                             </li>
                             <li>
