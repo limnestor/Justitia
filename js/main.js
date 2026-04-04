@@ -209,6 +209,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra11032.html">Ease of Doing Business Act</a>
                                     </li>
+                                     <li>
+                                        <a class="dropdown-item icodalname" href="eo2s2016.html">Freedom of Information</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -406,10 +409,16 @@
                                         <a class="dropdown-item icodalname" href="irrdomesticadoption.html">IRR Domestic Adoption Act</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="ra8043.html">Inter-Country Adoption Act</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="ra11222.html">Simulated Birth Rectification Act</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="prd.html">Property Registration Decree</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra26.html">Reconstitution of Torrens Title</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="condo.html">The Condominium Act</a>
@@ -443,6 +452,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="eo200s1987.html">Publication of Laws</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra11596.html">Anti Child Marriage Act</a>
                                     </li>
                                 </ul>
                             </li>
@@ -666,6 +678,39 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9710.html">The Magna Carta of Women</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra11165.html">Telecommuting Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra6727.html">Wage Rationalization Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="eo203s1987.html">Holiday List (E.O. No 203)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra8972.html">Expanded Solo Parents Welfare Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra11210.html">105-Day Expanded Maternity Leave Law</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra7686.html">Dual Training System Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra11230.html">Tulong-Trabaho Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10869.html">JobStart Philippines Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra7192.html">Women in Development and Nation Building Act</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10028.html">Expanded Breastfeeding Promotion Act of 2009</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10151.html">Employment of Night Workers</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -796,6 +841,13 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra3591.html">PDIC Charter Law</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9520.html">Philippine Cooperative Code of 2008</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9178.html">Barangay Micro Business Enterprises (BMBEs) Act</a>
+                                    </li>
+                                    
                                 </ul>
                             </li>
                         </ul>
