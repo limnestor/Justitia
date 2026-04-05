@@ -780,7 +780,39 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra10151.html">Employment of Night Workers</a>
                                     </li>
-
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="eo126s1987.html">E.O. 126, Series of 1987</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doledo19s1993.html">DOLE D.O. 19, Series of 1993 (Project Construction Workers)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doleda01s2008.html">DOLE D.A. 1, Series of 2008 (Youth Employment)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doledo112s2011.html">DOLE D.O. 112, Series of 2011 (Women Leave Benefits)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="blrdo147s2015.html">BLR D.O. 147, Series of 2015</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doledo149s2016.html">DOLE D.O. 149 (Hazardous Child Work))</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doledc2s2017.html">DOLE D.C. 2 (Child Work Permit)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doledo174s2017.html">DOLE D.O. 174 (Contracting)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doledc01s2017.html">D.C. 1 Clarifying D.O. 174 (Contracting)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="eo51s2018.html">E.O. 51 (Prohibition on Illegal Contracting)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doledo242s2024.html">DOLE D.O. 242 (Service Charge)</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -980,7 +1012,12 @@
                                 <a class="dropdown-item" href="https://sc.judiciary.gov.ph/wp-content/uploads/2025/12/2026-BAR-Bar-Bulletin-No-2.pdf">
                                     Bar Bulletin # 2
                                 </a>
-                            </li>                            
+                            </li> 
+                            <li>
+                                <a class="dropdown-item" href="#">
+                                    Codals from the 2026 Bar Syllabus
+                                </a>
+                            </li>                           
                         </ul>
                     </div>  
                                       
