@@ -7,6 +7,7 @@ https://limnestor.github.io/Justitia/ac122000.html
 https://limnestor.github.io/Justitia/ac132001.html
 https://limnestor.github.io/Justitia/act1508.html
 https://limnestor.github.io/Justitia/act1524.html
+https://limnestor.github.io/Justitia/act3135.html
 https://limnestor.github.io/Justitia/act3326.html
 https://limnestor.github.io/Justitia/act4103.html
 https://limnestor.github.io/Justitia/admincode.html
@@ -78,6 +79,7 @@ https://limnestor.github.io/Justitia/doledo112s2011.html
 https://limnestor.github.io/Justitia/doledo149s2016.html
 https://limnestor.github.io/Justitia/doledo174s2017.html
 https://limnestor.github.io/Justitia/doledo19s1993.html
+https://limnestor.github.io/Justitia/doledo238s2023.html
 https://limnestor.github.io/Justitia/doledo242s2024.html
 https://limnestor.github.io/Justitia/eca.html
 https://limnestor.github.io/Justitia/elecevid.html
@@ -151,6 +153,7 @@ https://limnestor.github.io/Justitia/pd705.html
 https://limnestor.github.io/Justitia/pd807.html
 https://limnestor.github.io/Justitia/pd856.html
 https://limnestor.github.io/Justitia/pd968.html
+https://limnestor.github.io/Justitia/poea-sec-2010.html
 https://limnestor.github.io/Justitia/ppsa.html
 https://limnestor.github.io/Justitia/prd.html
 https://limnestor.github.io/Justitia/price.html

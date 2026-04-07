@@ -664,6 +664,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="am221101sc.html">ULAS Rules</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="act3135.html">Acts No. 3135 (Extrajudicial Foreclosure)</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -742,7 +745,7 @@
                                         <a class="dropdown-item icodalname" href="ra9502.html">Universally Accessible Cheaper and Quality Medicines Act of 2008</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item icodalname" href="eo797.html">POEA</a>
+                                        <a class="dropdown-item icodalname" href="eo797.html">POEA Charter</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9710.html">The Magna Carta of Women</a>
@@ -809,6 +812,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="eo51s2018.html">E.O. 51 (Prohibition on Illegal Contracting)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doledo238s2023.html">DOLE D.O. 238 (Visitorial and Enforcement Power)</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="doledo242s2024.html">DOLE D.O. 242 (Service Charge)</a>
