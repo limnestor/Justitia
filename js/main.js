@@ -819,6 +819,12 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="doledo242s2024.html">DOLE D.O. 242 (Service Charge)</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="poea-sec-2010.html">2010 POEA-SEC</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="csc1000432.html">CSC Women Special Leave Benefits Guidelines (CSC 1000432) </a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>

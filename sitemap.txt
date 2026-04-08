@@ -64,6 +64,7 @@ https://limnestor.github.io/Justitia/contact.html
 https://limnestor.github.io/Justitia/corpcode.html
 https://limnestor.github.io/Justitia/cpra.html
 https://limnestor.github.io/Justitia/crimpro.html
+https://limnestor.github.io/Justitia/csc1000432.html
 https://limnestor.github.io/Justitia/detail.html
 https://limnestor.github.io/Justitia/dnaevid.html
 https://limnestor.github.io/Justitia/dojdc0182017.html
