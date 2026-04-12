@@ -981,7 +981,12 @@
                             </li>
                             <li>
                                 <a class="dropdown-item" href="https://notebooklm.google.com/notebook/e722feb9-8fb3-4443-9709-0e46d0497016">
-                                    Commercial Lawyer
+                                    Commercial Lawyer 1
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="https://notebooklm.google.com/notebook/9ecbf3ff-cef1-4907-bf7c-5dd482235b19">
+                                    Commercial Lawyer 2
                                 </a>
                             </li>
                             <li>
