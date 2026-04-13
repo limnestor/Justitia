@@ -693,7 +693,7 @@
                             </li>
                             <li>
                                 <a class="dropdown-item icodalcategory" href="#">
-                                    Labor and Social Justice >
+                                    Labor and Social Legislation >
                                 </a>
                                 <ul class="dropdown-menu dropdown-submenu">
                                     <li>
@@ -808,10 +808,16 @@
                                         <a class="dropdown-item icodalname" href="doledo174s2017.html">DOLE D.O. 174 (Contracting)</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="doledo186s2017.html">DOLE D.O. 186 (Alien Employment Permit - old)</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="doledc01s2017.html">D.C. 1 Clarifying D.O. 174 (Contracting)</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="eo51s2018.html">E.O. 51 (Prohibition on Illegal Contracting)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doledo221s2021.html">DOLE D.O. 221 (Alien Employment Permit - New)</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="doledo238s2023.html">DOLE D.O. 238 (Visitorial and Enforcement Power)</a>
@@ -1031,8 +1037,8 @@
                                 </a>
                             </li> 
                             <li>
-                                <a class="dropdown-item" href="#">
-                                    Codals from the 2026 Bar Syllabus
+                                <a class="dropdown-item" href="bar2026codals.html">
+                                    2026 Bar Syllabus Based Codals
                                 </a>
                             </li>                           
                         </ul>
