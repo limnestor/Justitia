@@ -2,6 +2,7 @@
 https://limnestor.github.io/Justitia/1943Constitution.html
 https://limnestor.github.io/Justitia/1973Constitution.html
 https://limnestor.github.io/Justitia/1987Constitution.html
+https://limnestor.github.io/Justitia/1989cjc.html
 https://limnestor.github.io/Justitia/about.html
 https://limnestor.github.io/Justitia/ac122000.html
 https://limnestor.github.io/Justitia/ac132001.html
@@ -17,16 +18,19 @@ https://limnestor.github.io/Justitia/am021110sc.html
 https://limnestor.github.io/Justitia/am021111sc.html
 https://limnestor.github.io/Justitia/am021112sc.html
 https://limnestor.github.io/Justitia/am02118SC.html
+https://limnestor.github.io/Justitia/am02902sc.html
 https://limnestor.github.io/Justitia/am030205.html
 https://limnestor.github.io/Justitia/am030404sc.html
 https://limnestor.github.io/Justitia/am041011sc.html
 https://limnestor.github.io/Justitia/am071108sc.html
 https://limnestor.github.io/Justitia/am10310sc.html
+https://limnestor.github.io/Justitia/am130505sc.html
 https://limnestor.github.io/Justitia/am171103sc.html
 https://limnestor.github.io/Justitia/am191020sc.html
 https://limnestor.github.io/Justitia/am200704sc.html
 https://limnestor.github.io/Justitia/am210608sc.html
 https://limnestor.github.io/Justitia/am210722sc.html
+https://limnestor.github.io/Justitia/am210809sc.html
 https://limnestor.github.io/Justitia/am211125sc.html
 https://limnestor.github.io/Justitia/am221101sc.html
 https://limnestor.github.io/Justitia/am240206sc.html
@@ -39,6 +43,7 @@ https://limnestor.github.io/Justitia/article4.html
 https://limnestor.github.io/Justitia/article5.html
 https://limnestor.github.io/Justitia/article6.html
 https://limnestor.github.io/Justitia/article7.html
+https://limnestor.github.io/Justitia/bar2026codals.html
 https://limnestor.github.io/Justitia/blog.html
 https://limnestor.github.io/Justitia/blrdo147s2015.html
 https://limnestor.github.io/Justitia/booth.html
@@ -79,7 +84,10 @@ https://limnestor.github.io/Justitia/doledc2s2017.html
 https://limnestor.github.io/Justitia/doledo112s2011.html
 https://limnestor.github.io/Justitia/doledo149s2016.html
 https://limnestor.github.io/Justitia/doledo174s2017.html
+https://limnestor.github.io/Justitia/doledo186s2017.html
 https://limnestor.github.io/Justitia/doledo19s1993.html
+https://limnestor.github.io/Justitia/doledo205s2019.html
+https://limnestor.github.io/Justitia/doledo221s2021.html
 https://limnestor.github.io/Justitia/doledo238s2023.html
 https://limnestor.github.io/Justitia/doledo242s2024.html
 https://limnestor.github.io/Justitia/eca.html
@@ -135,6 +143,7 @@ https://limnestor.github.io/Justitia/nego.html
 https://limnestor.github.io/Justitia/nirc.html
 https://limnestor.github.io/Justitia/notary.html
 https://limnestor.github.io/Justitia/oath.html
+https://limnestor.github.io/Justitia/ocac218-2019.html
 https://limnestor.github.io/Justitia/owwa.html
 https://limnestor.github.io/Justitia/paternityleave.html
 https://limnestor.github.io/Justitia/pca.html
@@ -181,6 +190,7 @@ https://limnestor.github.io/Justitia/ra10869.html
 https://limnestor.github.io/Justitia/ra10883.html
 https://limnestor.github.io/Justitia/ra10911.html
 https://limnestor.github.io/Justitia/ra10963.html
+https://limnestor.github.io/Justitia/ra10966.html
 https://limnestor.github.io/Justitia/ra11032.html
 https://limnestor.github.io/Justitia/ra11165.html
 https://limnestor.github.io/Justitia/ra11166.html
@@ -192,6 +202,7 @@ https://limnestor.github.io/Justitia/ra11230.html
 https://limnestor.github.io/Justitia/ra11235.html
 https://limnestor.github.io/Justitia/ra1125.html
 https://limnestor.github.io/Justitia/ra11313.html
+https://limnestor.github.io/Justitia/ra11360.html
 https://limnestor.github.io/Justitia/ra11479.html
 https://limnestor.github.io/Justitia/ra11534.html
 https://limnestor.github.io/Justitia/ra11573.html
@@ -199,7 +210,9 @@ https://limnestor.github.io/Justitia/ra11596.html
 https://limnestor.github.io/Justitia/ra11641.html
 https://limnestor.github.io/Justitia/ra11642.html
 https://limnestor.github.io/Justitia/ra11767.html
+https://limnestor.github.io/Justitia/ra11909.html
 https://limnestor.github.io/Justitia/ra11926.html
+https://limnestor.github.io/Justitia/ra11930.html
 https://limnestor.github.io/Justitia/ra11956.html
 https://limnestor.github.io/Justitia/ra11976.html
 https://limnestor.github.io/Justitia/ra12021.html
@@ -272,11 +285,14 @@ https://limnestor.github.io/Justitia/ra9287.html
 https://limnestor.github.io/Justitia/ra9344.html
 https://limnestor.github.io/Justitia/ra9346.html
 https://limnestor.github.io/Justitia/ra9480.html
+https://limnestor.github.io/Justitia/ra9492.html
 https://limnestor.github.io/Justitia/ra9502.html
+https://limnestor.github.io/Justitia/ra9504.html
 https://limnestor.github.io/Justitia/ra9520.html
 https://limnestor.github.io/Justitia/ra9710.html
 https://limnestor.github.io/Justitia/ra9729.html
 https://limnestor.github.io/Justitia/ra9745.html
+https://limnestor.github.io/Justitia/ra9849.html
 https://limnestor.github.io/Justitia/ra9851.html
 https://limnestor.github.io/Justitia/ra9995.html
 https://limnestor.github.io/Justitia/rao2-2001.html

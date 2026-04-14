@@ -699,7 +699,10 @@
                                         <a class="dropdown-item icodalname" href="ethics.html">Rules of Court - Ethics</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item icodalname" href="judicialethics.html">Code of Judicial Ethics</a>
+                                        <a class="dropdown-item icodalname" href="judicialethics.html">New Code of Judicial Ethics</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="1989cjc.html">1989 Code of Judicial Conduct</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="am02902sc.html">Automatic Conversion of Administrative Cases</a>
@@ -708,8 +711,12 @@
                                         <a class="dropdown-item icodalname" href="am210809sc.html">Further Amendments To Rule 140 of the Rules of Court</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="am130505sc.html">A.M. No. 13-05-05-SC (Conditions for Teaching)</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="ocac218-2019.html">OCA Circular No. 218-2019 (Teaching by Judges)</a>
                                     </li>
+                                    
                                 </ul>
                             </li>
                             <li>
