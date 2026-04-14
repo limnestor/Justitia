@@ -218,6 +218,15 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra7662.html">Legal Education Reform Act</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9492.html">Holiday Rationalization Law</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9849.html">Eidul Adha Holiday</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra10966.html">Feast of the Immaculate Conception of Mary Holiday</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -427,6 +436,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ca142.html">Regulate The Use Of Aliases (C.A. 142)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra11930.html">OSEAC and CSEAM</a>
                                     </li>
                                 </ul>
                             </li>
@@ -830,6 +842,12 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="csc1000432.html">CSC Women Special Leave Benefits Guidelines (CSC 1000432) </a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra11360.html">R.A. No. 11360 (Service Charges)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra9504.html">R.A. No. 9504</a>
                                     </li>
                                 </ul>
                             </li>
