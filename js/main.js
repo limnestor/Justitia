@@ -716,7 +716,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="ocac218-2019.html">OCA Circular No. 218-2019 (Teaching by Judges)</a>
                                     </li>
-                                    
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="bangalore.html">Bangalore Principles 2002</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -864,6 +866,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9504.html">R.A. No. 9504</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="ra6657.html">Comprehensive Agrarian Reform Law</a>
                                     </li>
                                 </ul>
                             </li>
