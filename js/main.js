@@ -674,6 +674,12 @@
                                         <a class="dropdown-item icodalname" href="ra10071.html">Prosecution Service Act</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="hcch.html">Hague Service Convention</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="scao251s2020.html">SC Guidelines for Hague Service Convention</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="am250217sc.html">Rule on Hague Evidence Convention</a>
                                     </li>
                                     <li>
@@ -691,6 +697,7 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="am03109sc.html">Guidelines for Pre-trial</a>
                                     </li>
+
                                 </ul>
                             </li>
                             <li>
