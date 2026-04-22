@@ -504,6 +504,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="eo200s1987.html">Publication of Laws</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="act2259.html">Cadastral Act</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -678,6 +681,15 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="act3135.html">Acts No. 3135 (Extrajudicial Foreclosure)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am190324sc.html">Clinical Legal Education Program</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am150610sc.html">Guidelines for Continuous Trial for Criminal Cases</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am03109sc.html">Guidelines for Pre-trial</a>
                                     </li>
                                 </ul>
                             </li>
