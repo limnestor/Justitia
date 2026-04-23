@@ -364,7 +364,10 @@
                                     </li> 
                                     <li>
                                         <a class="dropdown-item icodalname" href="ra9165.html">R.A. No. 9165 (Dangerous Drugs Act)</a>
-                                    </li> 
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="irrra9165.html">IRR of R.A. No. 9165 (Dangerous Drugs Act)</a>
+                                    </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="pd1613.html">P.D. No. 1613 (Amending Arson Law)</a>
                                     </li> 
@@ -697,7 +700,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="am03109sc.html">Guidelines for Pre-trial</a>
                                     </li>
-
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am1037sc.html">Electronic Filing and Service</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
