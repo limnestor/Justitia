@@ -8,6 +8,7 @@ https://limnestor.github.io/Justitia/ac122000.html
 https://limnestor.github.io/Justitia/ac132001.html
 https://limnestor.github.io/Justitia/act1508.html
 https://limnestor.github.io/Justitia/act1524.html
+https://limnestor.github.io/Justitia/act2259.html
 https://limnestor.github.io/Justitia/act3135.html
 https://limnestor.github.io/Justitia/act3326.html
 https://limnestor.github.io/Justitia/act4103.html
@@ -21,12 +22,17 @@ https://limnestor.github.io/Justitia/am02118SC.html
 https://limnestor.github.io/Justitia/am02902sc.html
 https://limnestor.github.io/Justitia/am030205.html
 https://limnestor.github.io/Justitia/am030404sc.html
+https://limnestor.github.io/Justitia/am03109sc.html
 https://limnestor.github.io/Justitia/am041011sc.html
 https://limnestor.github.io/Justitia/am071108sc.html
 https://limnestor.github.io/Justitia/am10310sc.html
+https://limnestor.github.io/Justitia/am1037sc.html
 https://limnestor.github.io/Justitia/am130505sc.html
+https://limnestor.github.io/Justitia/am150610sc.html
 https://limnestor.github.io/Justitia/am171103sc.html
+https://limnestor.github.io/Justitia/am190324sc.html
 https://limnestor.github.io/Justitia/am191020sc.html
+https://limnestor.github.io/Justitia/am200614sc.html
 https://limnestor.github.io/Justitia/am200704sc.html
 https://limnestor.github.io/Justitia/am210608sc.html
 https://limnestor.github.io/Justitia/am210722sc.html
@@ -117,6 +123,7 @@ https://limnestor.github.io/Justitia/gr157870.html
 https://limnestor.github.io/Justitia/gr166401.html
 https://limnestor.github.io/Justitia/gr167614.html
 https://limnestor.github.io/Justitia/gr179271.html
+https://limnestor.github.io/Justitia/gr196596.html
 https://limnestor.github.io/Justitia/gr199802.html
 https://limnestor.github.io/Justitia/gr203335.html
 https://limnestor.github.io/Justitia/gr217126.html
@@ -125,6 +132,7 @@ https://limnestor.github.io/Justitia/gr230112.html
 https://limnestor.github.io/Justitia/gr257610.html
 https://limnestor.github.io/Justitia/gr81510.html
 https://limnestor.github.io/Justitia/habeasdata.html
+https://limnestor.github.io/Justitia/hcch.html
 https://limnestor.github.io/Justitia/icodal.html
 https://limnestor.github.io/Justitia/index.html
 https://limnestor.github.io/Justitia/ipra.html
@@ -132,6 +140,7 @@ https://limnestor.github.io/Justitia/irrdomesticadoption.html
 https://limnestor.github.io/Justitia/irrlabor.html
 https://limnestor.github.io/Justitia/irrowwa.html
 https://limnestor.github.io/Justitia/irrpaternity.html
+https://limnestor.github.io/Justitia/irrra9165.html
 https://limnestor.github.io/Justitia/irrsrc.html
 https://limnestor.github.io/Justitia/jar.html
 https://limnestor.github.io/Justitia/journals.html
@@ -306,6 +315,7 @@ https://limnestor.github.io/Justitia/rr0179.html
 https://limnestor.github.io/Justitia/rr0240.html
 https://limnestor.github.io/Justitia/rr0298.html
 https://limnestor.github.io/Justitia/rulesexpedited.html
+https://limnestor.github.io/Justitia/scao251s2020.html
 https://limnestor.github.io/Justitia/sec-ogc-41-11.html
 https://limnestor.github.io/Justitia/secmc132019.html
 https://limnestor.github.io/Justitia/secmc142017.html
