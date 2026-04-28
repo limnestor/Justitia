@@ -706,6 +706,9 @@
                                     <li>
                                         <a class="dropdown-item icodalname" href="am200614sc.html">Guidelines for Community Service</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="am180316sc.html">Plea Bargaining Framework for Drug Cases</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
