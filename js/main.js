@@ -868,6 +868,9 @@
                                         <a class="dropdown-item icodalname" href="doledo174s2017.html">DOLE D.O. 174 (Contracting)</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="doledo183s2017.html">DOLE D.O. 183 (Visitorial and Enforcement Power)</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="doledo186s2017.html">DOLE D.O. 186 (Alien Employment Permit - old)</a>
                                     </li>
                                     <li>
@@ -875,6 +878,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="eo51s2018.html">E.O. 51 (Prohibition on Illegal Contracting)</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item icodalname" href="doledo205s2019.html">DOLE D.O. 205 (Foreigner Work Visa Guidelines)</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item icodalname" href="doledo221s2021.html">DOLE D.O. 221 (Alien Employment Permit - New)</a>
