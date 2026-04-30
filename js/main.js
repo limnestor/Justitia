@@ -889,6 +889,9 @@
                                         <a class="dropdown-item icodalname" href="doledo238s2023.html">DOLE D.O. 238 (Visitorial and Enforcement Power)</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item icodalname" href="dolela19s2023.html">DOLE Labor Advisory 19 (Workplace Mental Health Guidelines)</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item icodalname" href="doledo242s2024.html">DOLE D.O. 242 (Service Charge)</a>
                                     </li>
                                     <li>
