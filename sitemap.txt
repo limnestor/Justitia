@@ -30,6 +30,7 @@ https://limnestor.github.io/Justitia/am1037sc.html
 https://limnestor.github.io/Justitia/am130505sc.html
 https://limnestor.github.io/Justitia/am150610sc.html
 https://limnestor.github.io/Justitia/am171103sc.html
+https://limnestor.github.io/Justitia/am180316sc.html
 https://limnestor.github.io/Justitia/am190324sc.html
 https://limnestor.github.io/Justitia/am191020sc.html
 https://limnestor.github.io/Justitia/am200614sc.html
@@ -91,12 +92,14 @@ https://limnestor.github.io/Justitia/doledc2s2017.html
 https://limnestor.github.io/Justitia/doledo112s2011.html
 https://limnestor.github.io/Justitia/doledo149s2016.html
 https://limnestor.github.io/Justitia/doledo174s2017.html
+https://limnestor.github.io/Justitia/doledo183s2017.html
 https://limnestor.github.io/Justitia/doledo186s2017.html
 https://limnestor.github.io/Justitia/doledo19s1993.html
 https://limnestor.github.io/Justitia/doledo205s2019.html
 https://limnestor.github.io/Justitia/doledo221s2021.html
 https://limnestor.github.io/Justitia/doledo238s2023.html
 https://limnestor.github.io/Justitia/doledo242s2024.html
+https://limnestor.github.io/Justitia/dolela19s2023.html
 https://limnestor.github.io/Justitia/eca.html
 https://limnestor.github.io/Justitia/elecevid.html
 https://limnestor.github.io/Justitia/eo1008.html
