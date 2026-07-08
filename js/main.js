@@ -1113,7 +1113,13 @@
                                 <a class="dropdown-item" href="https://sc.judiciary.gov.ph/wp-content/uploads/2025/12/2026-BAR-Bar-Bulletin-No-2.pdf">
                                     Bar Bulletin # 2
                                 </a>
-                            </li> 
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="https://sc.judiciary.gov.ph/wp-content/uploads/2026/07/2026-BAR-Bar-Bulletin-No-3.pdf">
+                                    Bar Bulletin # 3
+                                </a>
+                            </li>
+
                             <li>
                                 <a class="dropdown-item" href="bar2026codals.html">
                                     2026 Bar Syllabus Based Codals
