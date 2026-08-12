@@ -1124,6 +1124,16 @@
                                     Bar Bulletin # 4
                                 </a>
                             </li>
+                            <li>
+                                <a class="dropdown-item" href="https://sc.judiciary.gov.ph/wp-content/uploads/2026/08/Notice-on-the-Digital-Modality-Guidelines.pdf">
+                                    2026 Digital Modality Guidelines
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="https://sc.judiciary.gov.ph/wp-content/uploads/2026/08/Examplify-User-Guide.pdf">
+                                    Examplify User Guide
+                                </a>
+                            </li>                           
                             
                             <li>
                                 <a class="dropdown-item" href="bar2026codals.html">
